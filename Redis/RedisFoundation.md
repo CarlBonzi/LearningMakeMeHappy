@@ -9,7 +9,7 @@ Redis 有以下这五种基本类型：
 * List（列表）
 * Set（集合）
 * zset（有序集合）
-![avatar](../static/Redis基础数据类型.png)
+![avatar](https://github.com/CarlBonzi/LearningMakeMeHappy/blob/main/Redis/static/Redis%E5%9F%BA%E7%A1%80%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B.png)
 它还有三种特殊的数据结构类型
 * Geospatial
 * Hyperloglog
