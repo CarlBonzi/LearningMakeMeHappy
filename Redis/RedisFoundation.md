@@ -9,11 +9,11 @@ Redis 有以下这五种基本类型：
 * List（列表）
 * Set（集合）
 * zset（有序集合）
-![avatar](data:image/png;base64,iVBORw0......)
+![avatar](../static/Redis基础数据类型.png)
 它还有三种特殊的数据结构类型
 * Geospatial
 * Hyperloglog
 * Bitmap
 ---
 
-    
+​    
