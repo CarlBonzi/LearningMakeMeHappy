@@ -9,12 +9,20 @@ Redis 有以下这五种基本类型：
 * List（列表）
 * Set（集合）
 * zset（有序集合）
-![avatar](https://github.com/CarlBonzi/LearningMakeMeHappy/blob/main/Redis/static/Redis%E5%9F%BA%E7%A1%80%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B.png =400x300)
+<img src="https://github.com/CarlBonzi/LearningMakeMeHappy/blob/main/Redis/static/Redis%E5%9F%BA%E7%A1%80%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B.png" width="400px"/>
 
 它还有三种特殊的数据结构类型
 * Geospatial
 * Hyperloglog
 * Bitmap
 ---
-
-​    
+### 为什么Redis这么快
+* 基于内存储存出现
+* 高效的数据结构
+* 合理的数据编码
+* 合理的线程模型
+### Redis缓存常见问题
+* 缓存穿透
+* 缓存击穿
+* 缓存雪崩
+### 
